@@ -1,0 +1,10 @@
+{
+	"name": "Julia",
+	"image": "mcr.microsoft.com/devcontainers/base:bookworm",
+	"features": {
+		"ghcr.io/julialang/devcontainer-features/julia:1": {
+			"channel": "release"
+		}
+	},
+	"remoteUser": "vscode"
+}
